@@ -26,4 +26,4 @@ Average: 85
 - Build a web app interface
 
 ## 👩‍💻 Author
-Deepikajanarthanan
+Deepika
